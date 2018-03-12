@@ -1,0 +1,30 @@
+{
+  "name": "nany",
+  "version": "0.1.0",
+  "description": "Create and build your nano-libraries without pain",
+  "main": "index.js",
+  "repository": "https://github.com/kelin2025/nany",
+  "author": "Kelin2025",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-jest": "^22.4.1",
+    "babel-plugin-nanoutils": "^0.1.1",
+    "babel-preset-env": "^1.6.1",
+    "eslint": "^4.16.0",
+    "eslint-config-standard": "^11.0.0-beta.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "chalk": "^2.3.2",
+    "inquirer": "^5.1.0",
+    "jest": "^22.1.4",
+    "minimist": "^1.2.0",
+    "nanoutils": "^0.0.17",
+    "rollup": "^0.56.5",
+    "rollup-plugin-babel": "^3.0.3",
+    "rollup-plugin-commonjs": "8.3.0",
+    "rollup-plugin-node-resolve": "^3.2.0"
+  }
+}
