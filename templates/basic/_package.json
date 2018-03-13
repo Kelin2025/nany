@@ -1,0 +1,19 @@
+{
+  "name": "<%= pkg.name %>",
+  "version": "0.0.0",
+  "description": "<%= pkg.description %>",
+  "main": "cjs/index.js",
+  "module": "es/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/<%= pkg.github %>/<%= pkg.name %>"
+  },
+  "keywords": [],
+  "author": "<%= pkg.user %>",
+  "license": "<%= pkg.license %>",
+  "bugs": {
+    "url": "https://github.com/<%= pkg.github %>/<%= pkg.name %>/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

@@ -1,0 +1,8 @@
+*.orig
+node_modules/
+npm-debug.log
+docs/
+cjs/
+es/
+lib/README.md
+tests/README.md
